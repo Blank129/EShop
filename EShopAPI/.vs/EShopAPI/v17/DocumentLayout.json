@@ -1,0 +1,525 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\eshopmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|solutionrelative:eshopmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\eshopmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|solutionrelative:eshopmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\eshopmvc\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|solutionrelative:eshopmvc\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA79B2A-EFD4-4C1C-9A24-A28857775535}|EShopAPIClone\\EShopAPIClone.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\eshopapiclone\\controllers\\userfunctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA79B2A-EFD4-4C1C-9A24-A28857775535}|EShopAPIClone\\EShopAPIClone.csproj|solutionrelative:eshopapiclone\\controllers\\userfunctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E0243F-A901-42CA-982B-A06256E5F586}|EShop.Common\\EShop.Common.csproj|C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\eshop.common\\httprequesthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E0243F-A901-42CA-982B-A06256E5F586}|EShop.Common\\EShop.Common.csproj|solutionrelative:eshop.common\\httprequesthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\dataaccess.eshop\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|solutionrelative:dataaccess.eshop\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\dataaccess.eshop\\iservices\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|solutionrelative:dataaccess.eshop\\iservices\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA79B2A-EFD4-4C1C-9A24-A28857775535}|EShopAPIClone\\EShopAPIClone.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\eshopapiclone\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA79B2A-EFD4-4C1C-9A24-A28857775535}|EShopAPIClone\\EShopAPIClone.csproj|solutionrelative:eshopapiclone\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\eshopmvc\\views\\home\\getuserfunctionbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|solutionrelative:eshopmvc\\views\\home\\getuserfunctionbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\dataaccess.eshop\\services\\userfunctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|solutionrelative:dataaccess.eshop\\services\\userfunctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\dataaccess.eshop\\requestdata\\userloginrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|solutionrelative:dataaccess.eshop\\requestdata\\userloginrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\dataaccess.eshop\\iservices\\iuserfunctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|solutionrelative:dataaccess.eshop\\iservices\\iuserfunctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\eshopmvc\\models\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|solutionrelative:eshopmvc\\models\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\dataaccess.eshop\\entities\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|solutionrelative:dataaccess.eshop\\entities\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA79B2A-EFD4-4C1C-9A24-A28857775535}|EShopAPIClone\\EShopAPIClone.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\eshopapiclone\\model\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA79B2A-EFD4-4C1C-9A24-A28857775535}|EShopAPIClone\\EShopAPIClone.csproj|solutionrelative:eshopapiclone\\model\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\eshopmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|solutionrelative:eshopmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\eshopmvc\\models\\userfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|solutionrelative:eshopmvc\\models\\userfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\eshopmvc\\views\\home\\grantpermission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|solutionrelative:eshopmvc\\views\\home\\grantpermission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\dataaccess.eshop\\entities\\userfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|solutionrelative:dataaccess.eshop\\entities\\userfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\eshopmvc\\models\\accountloginrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|solutionrelative:eshopmvc\\models\\accountloginrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\eshopmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|solutionrelative:eshopmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\dataaccess.eshop\\entitiesframework\\eshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|solutionrelative:dataaccess.eshop\\entitiesframework\\eshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\dataaccess.eshop\\entities\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|solutionrelative:dataaccess.eshop\\entities\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA79B2A-EFD4-4C1C-9A24-A28857775535}|EShopAPIClone\\EShopAPIClone.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\eshopapiclone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA79B2A-EFD4-4C1C-9A24-A28857775535}|EShopAPIClone\\EShopAPIClone.csproj|solutionrelative:eshopapiclone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\dataaccess.eshop\\unitofwork\\eshopunitofword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|solutionrelative:dataaccess.eshop\\unitofwork\\eshopunitofword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\dataaccess.eshop\\unitofwork\\ieshopunitofword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|solutionrelative:dataaccess.eshop\\unitofwork\\ieshopunitofword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\eshopmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|solutionrelative:eshopmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA79B2A-EFD4-4C1C-9A24-A28857775535}|EShopAPIClone\\EShopAPIClone.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\eshopapiclone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AA79B2A-EFD4-4C1C-9A24-A28857775535}|EShopAPIClone\\EShopAPIClone.csproj|solutionrelative:eshopapiclone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\eshopmvc\\views\\shared\\_partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|solutionrelative:eshopmvc\\views\\shared\\_partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\eshopmvc\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7018E2CB-F1BD-49F0-BD1B-04CF4354A74F}|EShopMVC\\EShopMVC.csproj|solutionrelative:eshopmvc\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|c:\\users\\v\\documents\\khoac#\\eshopapi\\dataaccess.eshop\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F3550D-4AD0-4177-939E-3505699791BA}|DataAccess.EShop\\DataAccess.EShop.csproj|solutionrelative:dataaccess.eshop\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EShopMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EShopMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:09:20.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess.EShop\\Services\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\Services\\UserRepository.cs",
+              "RelativeToolTip": "DataAccess.EShop\\Services\\UserRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwBEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:25:01.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserFunctionController.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopAPIClone\\Controllers\\UserFunctionController.cs",
+              "RelativeDocumentMoniker": "EShopAPIClone\\Controllers\\UserFunctionController.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopAPIClone\\Controllers\\UserFunctionController.cs",
+              "RelativeToolTip": "EShopAPIClone\\Controllers\\UserFunctionController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswCMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:33:00.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EShopMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EShopMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwBAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:15:48.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpRequestHelper.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShop.Common\\HttpRequestHelper.cs",
+              "RelativeDocumentMoniker": "EShop.Common\\HttpRequestHelper.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShop.Common\\HttpRequestHelper.cs",
+              "RelativeToolTip": "EShop.Common\\HttpRequestHelper.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:46:00.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "EShopMVC\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "EShopMVC\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T10:18:01.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\IServices\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess.EShop\\IServices\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\IServices\\IUserRepository.cs",
+              "RelativeToolTip": "DataAccess.EShop\\IServices\\IUserRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:19:55.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopAPIClone\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EShopAPIClone\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopAPIClone\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EShopAPIClone\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwEsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:42:01.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetUserFunctionById.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Views\\Home\\GetUserFunctionById.cshtml",
+              "RelativeDocumentMoniker": "EShopMVC\\Views\\Home\\GetUserFunctionById.cshtml",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Views\\Home\\GetUserFunctionById.cshtml",
+              "RelativeToolTip": "EShopMVC\\Views\\Home\\GetUserFunctionById.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T09:38:20.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserFunctionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\Services\\UserFunctionRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess.EShop\\Services\\UserFunctionRepository.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\Services\\UserFunctionRepository.cs",
+              "RelativeToolTip": "DataAccess.EShop\\Services\\UserFunctionRepository.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAA/wDwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:26:21.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserLoginRequestData.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\RequestData\\UserLoginRequestData.cs",
+              "RelativeDocumentMoniker": "DataAccess.EShop\\RequestData\\UserLoginRequestData.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\RequestData\\UserLoginRequestData.cs",
+              "RelativeToolTip": "DataAccess.EShop\\RequestData\\UserLoginRequestData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:20:51.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserFunctionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\IServices\\IUserFunctionRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess.EShop\\IServices\\IUserFunctionRepository.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\IServices\\IUserFunctionRepository.cs",
+              "RelativeToolTip": "DataAccess.EShop\\IServices\\IUserFunctionRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:21:35.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReturnData.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Models\\ReturnData.cs",
+              "RelativeDocumentMoniker": "EShopMVC\\Models\\ReturnData.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Models\\ReturnData.cs",
+              "RelativeToolTip": "EShopMVC\\Models\\ReturnData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:16:25.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReturnData.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\Entities\\ReturnData.cs",
+              "RelativeDocumentMoniker": "DataAccess.EShop\\Entities\\ReturnData.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\Entities\\ReturnData.cs",
+              "RelativeToolTip": "DataAccess.EShop\\Entities\\ReturnData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:47:17.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EShopMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EShopMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T10:18:52.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReturnData.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopAPIClone\\Model\\ReturnData.cs",
+              "RelativeDocumentMoniker": "EShopAPIClone\\Model\\ReturnData.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopAPIClone\\Model\\ReturnData.cs",
+              "RelativeToolTip": "EShopAPIClone\\Model\\ReturnData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:55:21.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserFunction.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Models\\UserFunction.cs",
+              "RelativeDocumentMoniker": "EShopMVC\\Models\\UserFunction.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Models\\UserFunction.cs",
+              "RelativeToolTip": "EShopMVC\\Models\\UserFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:42:10.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GrantPermission.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Views\\Home\\GrantPermission.cshtml",
+              "RelativeDocumentMoniker": "EShopMVC\\Views\\Home\\GrantPermission.cshtml",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Views\\Home\\GrantPermission.cshtml",
+              "RelativeToolTip": "EShopMVC\\Views\\Home\\GrantPermission.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T13:10:15.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserFunction.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\Entities\\UserFunction.cs",
+              "RelativeDocumentMoniker": "DataAccess.EShop\\Entities\\UserFunction.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\Entities\\UserFunction.cs",
+              "RelativeToolTip": "DataAccess.EShop\\Entities\\UserFunction.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:01:15.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountLoginRequestData.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Models\\AccountLoginRequestData.cs",
+              "RelativeDocumentMoniker": "EShopMVC\\Models\\AccountLoginRequestData.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Models\\AccountLoginRequestData.cs",
+              "RelativeToolTip": "EShopMVC\\Models\\AccountLoginRequestData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:16:57.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EShopMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EShopMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T15:47:09.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EShopDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\EntitiesFramework\\EShopDBContext.cs",
+              "RelativeDocumentMoniker": "DataAccess.EShop\\EntitiesFramework\\EShopDBContext.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\EntitiesFramework\\EShopDBContext.cs",
+              "RelativeToolTip": "DataAccess.EShop\\EntitiesFramework\\EShopDBContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:53:16.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\Entities\\Function.cs",
+              "RelativeDocumentMoniker": "DataAccess.EShop\\Entities\\Function.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\Entities\\Function.cs",
+              "RelativeToolTip": "DataAccess.EShop\\Entities\\Function.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:01:07.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopAPIClone\\Program.cs",
+              "RelativeDocumentMoniker": "EShopAPIClone\\Program.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopAPIClone\\Program.cs",
+              "RelativeToolTip": "EShopAPIClone\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:50:26.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EShopUnitOfWord.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\UnitOfWork\\EShopUnitOfWord.cs",
+              "RelativeDocumentMoniker": "DataAccess.EShop\\UnitOfWork\\EShopUnitOfWord.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\UnitOfWork\\EShopUnitOfWord.cs",
+              "RelativeToolTip": "DataAccess.EShop\\UnitOfWork\\EShopUnitOfWord.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:25:41.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEShopUnitOfWord.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\UnitOfWork\\IEShopUnitOfWord.cs",
+              "RelativeDocumentMoniker": "DataAccess.EShop\\UnitOfWork\\IEShopUnitOfWord.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\UnitOfWork\\IEShopUnitOfWord.cs",
+              "RelativeToolTip": "DataAccess.EShop\\UnitOfWork\\IEShopUnitOfWord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:25:53.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Web.config",
+              "RelativeDocumentMoniker": "EShopMVC\\Web.config",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Web.config",
+              "RelativeToolTip": "EShopMVC\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-01T13:13:36.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopAPIClone\\appsettings.json",
+              "RelativeDocumentMoniker": "EShopAPIClone\\appsettings.json",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopAPIClone\\appsettings.json",
+              "RelativeToolTip": "EShopAPIClone\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T08:49:57.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_PartialSideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Views\\Shared\\_PartialSideBar.cshtml",
+              "RelativeDocumentMoniker": "EShopMVC\\Views\\Shared\\_PartialSideBar.cshtml",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Views\\Shared\\_PartialSideBar.cshtml",
+              "RelativeToolTip": "EShopMVC\\Views\\Shared\\_PartialSideBar.cshtml",
+              "ViewState": "AQIAAE4BAAAAAAAAAAAkwBMCAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T10:22:17.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_LoginLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Views\\Shared\\_LoginLayout.cshtml",
+              "RelativeDocumentMoniker": "EShopMVC\\Views\\Shared\\_LoginLayout.cshtml",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\EShopMVC\\Views\\Shared\\_LoginLayout.cshtml",
+              "RelativeToolTip": "EShopMVC\\Views\\Shared\\_LoginLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T10:19:29.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DataAccess.EShop\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\EShopAPI\\DataAccess.EShop\\Entities\\User.cs",
+              "RelativeToolTip": "DataAccess.EShop\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:00:51.648Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "EShopAPIClone.Controllers.AccountController",
+    "Method": "Account_Login",
+    "RelativePath": "api/Account/Account_Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestData",
+        "Type": "DataAccess.EShop.RequestData.UserLoginRequestData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EShopAPIClone.Controllers.UserFunctionController",
+    "Method": "GetListUserFunction",
+    "RelativePath": "api/UserFunction/GetListUserFunction",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EShopAPIClone.Controllers.UserFunctionController",
+    "Method": "GetUserFunctionById",
+    "RelativePath": "api/UserFunction/GetUserFunctionById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EShopAPIClone.Controllers.UserFunctionController",
+    "Method": "UserFunction_Update",
+    "RelativePath": "api/UserFunction/UserFunction_Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userFunction",
+        "Type": "DataAccess.EShop.Entities.UserFunction",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,68 @@
+﻿@model EShopMVC.Models.UserFunction
+@{
+    ViewBag.Title = "GetUserFunctionById";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="form-group">
+    <label for="email">UserId</label>
+    <input type="hidden" class="form-control" value="@Model.UserFunctionID" id="txtUserFunctionID" />
+    <input type="text" class="form-control" value="@Model.UserID" id="txtUserID" />
+</div>
+<div id="form-group">
+    <label for="email">FunctionId</label>
+    <input type="text" class="form-control" value="@Model.FunctionID" id="txtFunctionID" />
+</div>
+<div id="form-group">
+    <label for="email">IsView</label>
+    <input type="text" class="form-control" value="@Model.IsView" id="txtIsView" />
+</div>
+<div id="form-group">
+    <label for="email">IsDelete</label>
+    <input type="text" class="form-control" value="@Model.IsDelete" id="txtIsDelete" />
+</div>
+<div id="form-group">
+    <label for="email">IsUpdate</label>
+    <input type="text" class="form-control" value="@Model.IsUpdate" id="txtIsUpdate" />
+</div>
+
+<button type="button" class="btn btn-default" id="btnSave">Cập nhật</button>
+<button type="button" class="btn btn-default" id="btnBack">Back</button>
+
+<script>
+    $(document).ready(function () {
+
+        $("#btnSave").click(function () {
+            ProductInsertUpdate()
+        })
+
+        $("#btnBack").click(function () {
+            window.location.href = "/Home/GrantPermission"
+        })
+    });
+
+    function ProductInsertUpdate() {
+        var input_data = {
+            UserFunctionID: $("#txtUserFunctionID").val(),
+            UserID: $("#txtUserID").val(),
+            FunctionID: $("#txtFunctionID").val(),
+            IsView: $("#txtIsView").val(),
+            IsUpdate: $("#txtIsUpdate").val(),
+            IsDelete: $("#txtIsDelete").val()
+        }
+
+        $.ajax({
+            url: '@Url.Action("UserFunction_Update", "Home")',
+            type: 'POST',
+            data: input_data,
+            dataType: 'json',
+            success: function (result) {
+                window.location.href = "/Home/GrantPermission"
+            },
+            error: function (data) {
+                alert('Error adding product.');
+            }
+        });
+    }
+</script>
+
